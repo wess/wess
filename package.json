@@ -1,0 +1,9 @@
+{
+  "name": "wessprofile",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "art": "bun run scripts/art.ts",
+    "preview": "bun run scripts/preview.ts"
+  }
+}
